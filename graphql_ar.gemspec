@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name = 'GraphqlAr'
+  s.name = 'graphql_ar'
   s.version = '0.0.0'
   s.date = '2019-11-07'
   s.summary = 'Helps integrate graphql with active record'
